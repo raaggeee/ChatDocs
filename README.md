@@ -11,7 +11,7 @@ It is fast and efficient. We are using the capabilities of GPT-4O nano. It is fa
 ## Demo Link:
 Click on the image below:
 [![Watch the video](https://img.youtube.com/vi/V8HoiQH-KpM/0.jpg)](https://www.youtube.com/watch?v=V8HoiQH-KpM)
-##### [https://www.youtube.com/watch?v=V8HoiQH-KpM]
+##### https://www.youtube.com/watch?v=V8HoiQH-KpM
 
 ## Further Improvements:
 - [ ]  : Use caching for better user interaction.
