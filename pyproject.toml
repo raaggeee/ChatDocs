@@ -1,0 +1,17 @@
+[project]
+name = "chat-doc"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "beautifulsoup4>=4.13.4",
+    "langchain-community>=0.3.27",
+    "langchain-core>=0.3.69",
+    "langchain-ollama>=0.3.4",
+    "langchain-openai>=0.3.28",
+    "langchain-qdrant>=0.2.0",
+    "langchain-unstructured>=0.1.5",
+    "onnxruntime>=1.22.1",
+    "streamlit>=1.46.1",
+]
