@@ -9,8 +9,7 @@ We are using a complete RAG based architecture to fetch the relevant links and c
 It is fast and efficient. We are using the capabilities of GPT-4O nano. It is fast and gives relevant information in no time
 
 ## Demo Link:
-##### Click on the image
-[![Watch the video](https://img.youtube.com/vi/V8HoiQH-KpM/0.jpg)](https://www.youtube.com/watch?v=V8HoiQH-KpM)
+[![Watch the video](https://img.youtube.com/vi/V8HoiQH-KpM/0.jpg)]
 ##### Demo 1: https://youtu.be/QDCm1x53KQc
 ##### Demo 2: https://youtu.be/PV-1KxHK5x0
 
